@@ -1,0 +1,9 @@
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\GGG\Documents\Visual Studio 2015\Projects\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
